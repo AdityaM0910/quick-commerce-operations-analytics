@@ -5,10 +5,31 @@ from datetime import datetime, timedelta
 
 fake = Faker()
 
+# Synthetic simulation parameters
+# These are project-specific assumptions, not real-world benchmarks.
+SLA_MINUTES = 20
+
+CITY_DELAY_MINUTES = {
+    "Delhi": 1.2,
+    "Mumbai": 0.6,
+    "Bangalore": -0.6,
+    "Kolkata": 0.9,
+    "Chandigarh": -1.2,
+}
+
+PARTNER_DELAY_RANGE = (-1.5, 1.5)
+RANDOM_DELAY_RANGE = (-2.0, 2.0)
+PEAK_HOUR_DELAY = 2.0
+STORE_LOAD_DELAY = 1.5
+
 def get_customers_with_city():
     conn = get_connection()
     cur = conn.cursor()
-    cur.execute("SELECT customer_id, city_id FROM customers")
+    cur.execute("""
+    SELECT c.customer_id, c.city_id, ci.city_name
+    FROM customers c
+    JOIN cities ci ON c.city_id = ci.city_id
+        """)
     data = cur.fetchall()
     cur.close(); conn.close()
     return data
@@ -55,7 +76,7 @@ def generate_orders_for_day(order_date, num_orders):
     orders_created = 0
 
     for _ in range(num_orders):
-        customer_id, city_id = random.choice(customers)
+        customer_id, city_id, city_name = random.choice(customers)
 
         # Business rule: order must be fulfilled by a store in the customer's city
         available_stores = city_to_stores.get(city_id, [])
@@ -103,7 +124,39 @@ def generate_orders_for_day(order_date, num_orders):
             packed_at = confirmed_at + timedelta(minutes=5)
             assigned_at = packed_at + timedelta(minutes=2)
             out_for_delivery_at = assigned_at + timedelta(minutes=3)
-            delivered_at = out_for_delivery_at + timedelta(minutes=random.randint(8, 25))
+
+            # Select a delivery partner before calculating delivery time.
+            partners = city_to_partners.get(city_id, [])
+            partner_id = random.choice(partners) if partners else None
+
+            # Delivery time varies by city, peak hour, store workload,
+            # delivery partner, and random operational variation.
+            city_delay = CITY_DELAY_MINUTES.get(city_name, 0)
+
+            # Peak-hour effect: evening demand creates additional delivery time.
+            peak_delay = PEAK_HOUR_DELAY if placed_at.hour in range(18, 22) else 0
+
+            # Store workload effect.
+            store_count = len(available_stores)
+            store_load_delay = STORE_LOAD_DELAY if store_count <= 2 else 0
+
+            # Each selected partner receives a small performance variation
+            # for this simulation.
+            partner_delay = random.uniform(*PARTNER_DELAY_RANGE)
+
+            delivery_minutes = (
+                15
+                + city_delay
+                + peak_delay
+                + store_load_delay
+                + partner_delay
+                + random.uniform(*RANDOM_DELAY_RANGE)
+            )
+
+            # Keep delivery time within the original 8–25 minute range.
+            delivery_minutes = max(8, min(25, delivery_minutes))
+
+            delivered_at = out_for_delivery_at + timedelta(minutes=delivery_minutes)
 
             cur.execute("""
                 INSERT INTO orders (customer_id, store_id, order_status,
@@ -124,11 +177,9 @@ def generate_orders_for_day(order_date, num_orders):
 
         # Insert delivery + payment only for non-cancelled orders
         if not is_cancelled:
-            partners = city_to_partners.get(city_id, [])
-            if partners:
-                partner_id = random.choice(partners)
+            if partner_id is not None:
                 delivery_minutes = (delivered_at - out_for_delivery_at).seconds / 60
-                is_late = delivery_minutes > 20  # SLA threshold: 20 min
+                is_late = delivery_minutes > SLA_MINUTES
                 rating = round(random.uniform(3.5, 5.0), 1)
                 cur.execute("""
                     INSERT INTO deliveries (order_id, partner_id, delivery_rating, is_late)

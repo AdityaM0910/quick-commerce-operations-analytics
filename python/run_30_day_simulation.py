@@ -46,4 +46,4 @@ def run_simulation(start_date, num_days=30, start_orders=1000, growth_rate=0.03)
         current_orders *= (1 + growth_rate)  # compound growth
 
 if __name__ == "__main__":
-    run_simulation(datetime(2026, 1, 2), num_days=29, start_orders=1030)
+    run_simulation(datetime(2026, 2, 7), num_days=22, start_orders=2890)

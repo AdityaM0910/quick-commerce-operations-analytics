@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from db_connection import get_connection
 
@@ -74,6 +75,26 @@ def main():
 
     results = detect_iqr_anomalies(df)
 
+    # --------------------------------------------------------
+    # Save complete anomaly analysis
+    # --------------------------------------------------------
+
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_file = os.path.join(
+        output_dir,
+        "kpi_anomaly_results.csv"
+    )
+
+    results.to_csv(output_file, index=False)
+
+    print(f"\nAnomaly analysis saved to: {output_file}")
+
+    # --------------------------------------------------------
+    # Summary
+    # --------------------------------------------------------
+
     print("\nAnomaly Detection Summary:")
 
     print(
@@ -83,6 +104,10 @@ def main():
             anomalies="sum"
         )
     )
+
+    # --------------------------------------------------------
+    # Display detected anomalies
+    # --------------------------------------------------------
 
     print("\nDetected Anomalies:")
 
@@ -105,6 +130,7 @@ def main():
             ].to_string(index=False)
         )
 
+    
 
 if __name__ == "__main__":
     main()

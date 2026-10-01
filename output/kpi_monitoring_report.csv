@@ -1,178 +1,181 @@
 metric_date,kpi_name,actual_value,target_value,status,severity,q1,q3,lower_bound,upper_bound,anomaly
-2026-01-01,Average Delivery Time,28.21,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-02,Average Delivery Time,28.33,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-03,Average Delivery Time,28.18,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-04,Average Delivery Time,28.43,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-05,Average Delivery Time,28.5,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-06,Average Delivery Time,28.56,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-07,Average Delivery Time,28.64,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-08,Average Delivery Time,28.56,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-09,Average Delivery Time,28.46,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-10,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-11,Average Delivery Time,28.59,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-12,Average Delivery Time,28.5,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-13,Average Delivery Time,28.62,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-14,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-15,Average Delivery Time,28.25,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-16,Average Delivery Time,28.46,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-17,Average Delivery Time,28.49,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-18,Average Delivery Time,28.58,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-19,Average Delivery Time,28.57,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-20,Average Delivery Time,28.53,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-21,Average Delivery Time,28.58,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-22,Average Delivery Time,28.46,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-23,Average Delivery Time,28.45,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-24,Average Delivery Time,28.6,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-25,Average Delivery Time,28.37,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-26,Average Delivery Time,28.54,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-27,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-28,Average Delivery Time,28.44,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-29,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-30,Average Delivery Time,28.39,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-31,Average Delivery Time,28.66,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-01,Average Delivery Time,28.51,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-02,Average Delivery Time,28.57,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-03,Average Delivery Time,28.49,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-04,Average Delivery Time,28.56,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-05,Average Delivery Time,28.66,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-06,Average Delivery Time,28.67,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-07,Average Delivery Time,28.37,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-08,Average Delivery Time,28.4,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-09,Average Delivery Time,28.38,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-10,Average Delivery Time,28.31,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-11,Average Delivery Time,28.34,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-12,Average Delivery Time,28.4,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-13,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-14,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-15,Average Delivery Time,28.42,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-16,Average Delivery Time,28.35,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-17,Average Delivery Time,28.34,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-18,Average Delivery Time,28.35,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-19,Average Delivery Time,28.38,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-20,Average Delivery Time,28.32,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-21,Average Delivery Time,28.39,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-22,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-23,Average Delivery Time,28.35,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-24,Average Delivery Time,28.32,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-25,Average Delivery Time,28.4,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-26,Average Delivery Time,28.32,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-27,Average Delivery Time,28.33,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-02-28,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.54,28.1,28.8,False
-2026-01-01,Late Delivery Rate,25.08,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-02,Late Delivery Rate,27.26,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-03,Late Delivery Rate,27.05,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-04,Late Delivery Rate,28.74,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-05,Late Delivery Rate,27.93,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-06,Late Delivery Rate,28.24,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-07,Late Delivery Rate,27.66,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-08,Late Delivery Rate,27.11,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-09,Late Delivery Rate,26.83,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-10,Late Delivery Rate,28.07,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-11,Late Delivery Rate,29.44,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-12,Late Delivery Rate,28.85,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-13,Late Delivery Rate,28.98,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-14,Late Delivery Rate,28.65,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-15,Late Delivery Rate,26.15,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-16,Late Delivery Rate,26.69,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-17,Late Delivery Rate,28.65,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-18,Late Delivery Rate,29.0,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-19,Late Delivery Rate,27.37,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-20,Late Delivery Rate,27.62,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-21,Late Delivery Rate,27.86,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-22,Late Delivery Rate,27.72,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-23,Late Delivery Rate,27.11,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-24,Late Delivery Rate,28.01,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-25,Late Delivery Rate,26.66,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-26,Late Delivery Rate,28.26,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-27,Late Delivery Rate,26.72,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-28,Late Delivery Rate,26.57,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-29,Late Delivery Rate,27.2,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-30,Late Delivery Rate,27.18,5.0,Red,Critical,2.2,27.64,-35.97,65.81,False
-2026-01-31,Late Delivery Rate,4.67,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-01,Late Delivery Rate,4.45,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-02,Late Delivery Rate,4.68,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-03,Late Delivery Rate,4.26,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-04,Late Delivery Rate,4.26,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-05,Late Delivery Rate,5.14,5.0,Amber,Warning,2.2,27.64,-35.97,65.81,False
-2026-02-06,Late Delivery Rate,4.6,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-07,Late Delivery Rate,2.17,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-08,Late Delivery Rate,2.42,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-09,Late Delivery Rate,2.49,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-10,Late Delivery Rate,1.86,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-11,Late Delivery Rate,2.28,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-12,Late Delivery Rate,1.99,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-13,Late Delivery Rate,2.44,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-14,Late Delivery Rate,2.13,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-15,Late Delivery Rate,2.31,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-16,Late Delivery Rate,2.04,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-17,Late Delivery Rate,2.07,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-18,Late Delivery Rate,1.99,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-19,Late Delivery Rate,2.0,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-20,Late Delivery Rate,2.22,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-21,Late Delivery Rate,1.82,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-22,Late Delivery Rate,1.79,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-23,Late Delivery Rate,2.11,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-24,Late Delivery Rate,1.82,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-25,Late Delivery Rate,2.24,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-26,Late Delivery Rate,2.1,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-27,Late Delivery Rate,1.73,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-02-28,Late Delivery Rate,1.96,5.0,Green,Normal,2.2,27.64,-35.97,65.81,False
-2026-01-01,SLA Compliance,74.92,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-02,SLA Compliance,72.74,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-03,SLA Compliance,72.95,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-04,SLA Compliance,71.26,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-05,SLA Compliance,72.07,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-06,SLA Compliance,71.76,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-07,SLA Compliance,72.34,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-08,SLA Compliance,72.89,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-09,SLA Compliance,73.17,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-10,SLA Compliance,71.93,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-11,SLA Compliance,70.56,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-12,SLA Compliance,71.15,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-13,SLA Compliance,71.02,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-14,SLA Compliance,71.35,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-15,SLA Compliance,73.85,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-16,SLA Compliance,73.31,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-17,SLA Compliance,71.35,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-18,SLA Compliance,71.0,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-19,SLA Compliance,72.63,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-20,SLA Compliance,72.38,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-21,SLA Compliance,72.14,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-22,SLA Compliance,72.28,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-23,SLA Compliance,72.89,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-24,SLA Compliance,71.99,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-25,SLA Compliance,73.34,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-26,SLA Compliance,71.74,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-27,SLA Compliance,73.28,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-28,SLA Compliance,73.43,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-29,SLA Compliance,72.8,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-30,SLA Compliance,72.82,90.0,Red,Critical,72.36,97.8,34.19,135.97,False
-2026-01-31,SLA Compliance,95.33,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-01,SLA Compliance,95.55,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-02,SLA Compliance,95.32,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-03,SLA Compliance,95.74,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-04,SLA Compliance,95.74,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-05,SLA Compliance,94.86,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-06,SLA Compliance,95.4,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-07,SLA Compliance,97.83,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-08,SLA Compliance,97.58,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-09,SLA Compliance,97.51,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-10,SLA Compliance,98.14,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-11,SLA Compliance,97.72,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-12,SLA Compliance,98.01,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-13,SLA Compliance,97.56,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-14,SLA Compliance,97.87,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-15,SLA Compliance,97.69,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-16,SLA Compliance,97.96,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-17,SLA Compliance,97.93,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-18,SLA Compliance,98.01,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-19,SLA Compliance,98.0,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-20,SLA Compliance,97.78,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-21,SLA Compliance,98.18,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-22,SLA Compliance,98.21,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-23,SLA Compliance,97.89,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-24,SLA Compliance,98.18,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-25,SLA Compliance,97.76,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-26,SLA Compliance,97.9,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-27,SLA Compliance,98.27,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
-2026-02-28,SLA Compliance,98.04,90.0,Green,Normal,72.36,97.8,34.19,135.97,False
+2026-01-01,Average Delivery Time,28.21,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-02,Average Delivery Time,28.33,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-03,Average Delivery Time,28.18,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-04,Average Delivery Time,28.43,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-05,Average Delivery Time,28.5,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-06,Average Delivery Time,28.56,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-07,Average Delivery Time,28.64,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-08,Average Delivery Time,28.56,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-09,Average Delivery Time,28.46,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-10,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-11,Average Delivery Time,28.59,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-12,Average Delivery Time,28.5,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-13,Average Delivery Time,28.62,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-14,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-15,Average Delivery Time,28.25,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-16,Average Delivery Time,28.46,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-17,Average Delivery Time,28.49,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-18,Average Delivery Time,28.58,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-19,Average Delivery Time,28.57,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-20,Average Delivery Time,28.53,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-21,Average Delivery Time,28.58,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-22,Average Delivery Time,28.46,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-23,Average Delivery Time,28.45,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-24,Average Delivery Time,28.6,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-25,Average Delivery Time,28.37,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-26,Average Delivery Time,28.54,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-27,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-28,Average Delivery Time,28.44,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-29,Average Delivery Time,28.47,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-30,Average Delivery Time,28.39,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-31,Average Delivery Time,28.66,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-01,Average Delivery Time,28.51,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-02,Average Delivery Time,28.57,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-03,Average Delivery Time,28.49,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-04,Average Delivery Time,28.56,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-05,Average Delivery Time,28.66,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-06,Average Delivery Time,28.67,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-07,Average Delivery Time,28.37,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-08,Average Delivery Time,28.4,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-09,Average Delivery Time,28.38,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-10,Average Delivery Time,28.31,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-11,Average Delivery Time,28.34,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-12,Average Delivery Time,28.4,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-13,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-14,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-15,Average Delivery Time,28.42,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-16,Average Delivery Time,28.35,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-17,Average Delivery Time,28.34,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-18,Average Delivery Time,28.35,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-19,Average Delivery Time,28.38,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-20,Average Delivery Time,28.32,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-21,Average Delivery Time,28.39,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-22,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-23,Average Delivery Time,28.35,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-24,Average Delivery Time,28.32,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-25,Average Delivery Time,28.4,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-26,Average Delivery Time,28.32,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-27,Average Delivery Time,28.33,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-02-28,Average Delivery Time,28.36,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-03-01,Average Delivery Time,28.33,35.0,Green,Normal,28.36,28.53,28.1,28.79,False
+2026-01-01,Late Delivery Rate,25.08,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-02,Late Delivery Rate,27.26,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-03,Late Delivery Rate,27.05,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-04,Late Delivery Rate,28.74,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-05,Late Delivery Rate,27.93,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-06,Late Delivery Rate,28.24,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-07,Late Delivery Rate,27.66,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-08,Late Delivery Rate,27.11,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-09,Late Delivery Rate,26.83,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-10,Late Delivery Rate,28.07,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-11,Late Delivery Rate,29.44,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-12,Late Delivery Rate,28.85,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-13,Late Delivery Rate,28.98,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-14,Late Delivery Rate,28.65,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-15,Late Delivery Rate,26.15,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-16,Late Delivery Rate,26.69,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-17,Late Delivery Rate,28.65,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-18,Late Delivery Rate,29.0,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-19,Late Delivery Rate,27.37,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-20,Late Delivery Rate,27.62,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-21,Late Delivery Rate,27.86,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-22,Late Delivery Rate,27.72,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-23,Late Delivery Rate,27.11,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-24,Late Delivery Rate,28.01,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-25,Late Delivery Rate,26.66,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-26,Late Delivery Rate,28.26,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-27,Late Delivery Rate,26.72,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-28,Late Delivery Rate,26.57,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-29,Late Delivery Rate,27.2,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-30,Late Delivery Rate,27.18,5.0,Red,Critical,2.16,27.63,-36.04,65.84,False
+2026-01-31,Late Delivery Rate,4.67,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-01,Late Delivery Rate,4.45,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-02,Late Delivery Rate,4.68,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-03,Late Delivery Rate,4.26,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-04,Late Delivery Rate,4.26,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-05,Late Delivery Rate,5.14,5.0,Amber,Warning,2.16,27.63,-36.04,65.84,False
+2026-02-06,Late Delivery Rate,4.6,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-07,Late Delivery Rate,2.17,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-08,Late Delivery Rate,2.42,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-09,Late Delivery Rate,2.49,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-10,Late Delivery Rate,1.86,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-11,Late Delivery Rate,2.28,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-12,Late Delivery Rate,1.99,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-13,Late Delivery Rate,2.44,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-14,Late Delivery Rate,2.13,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-15,Late Delivery Rate,2.31,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-16,Late Delivery Rate,2.04,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-17,Late Delivery Rate,2.07,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-18,Late Delivery Rate,1.99,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-19,Late Delivery Rate,2.0,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-20,Late Delivery Rate,2.22,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-21,Late Delivery Rate,1.82,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-22,Late Delivery Rate,1.79,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-23,Late Delivery Rate,2.11,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-24,Late Delivery Rate,1.82,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-25,Late Delivery Rate,2.24,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-26,Late Delivery Rate,2.1,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-27,Late Delivery Rate,1.73,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-02-28,Late Delivery Rate,1.96,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-03-01,Late Delivery Rate,1.85,5.0,Green,Normal,2.16,27.63,-36.04,65.84,False
+2026-01-01,SLA Compliance,74.92,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-02,SLA Compliance,72.74,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-03,SLA Compliance,72.95,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-04,SLA Compliance,71.26,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-05,SLA Compliance,72.07,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-06,SLA Compliance,71.76,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-07,SLA Compliance,72.34,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-08,SLA Compliance,72.89,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-09,SLA Compliance,73.17,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-10,SLA Compliance,71.93,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-11,SLA Compliance,70.56,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-12,SLA Compliance,71.15,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-13,SLA Compliance,71.02,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-14,SLA Compliance,71.35,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-15,SLA Compliance,73.85,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-16,SLA Compliance,73.31,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-17,SLA Compliance,71.35,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-18,SLA Compliance,71.0,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-19,SLA Compliance,72.63,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-20,SLA Compliance,72.38,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-21,SLA Compliance,72.14,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-22,SLA Compliance,72.28,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-23,SLA Compliance,72.89,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-24,SLA Compliance,71.99,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-25,SLA Compliance,73.34,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-26,SLA Compliance,71.74,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-27,SLA Compliance,73.28,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-28,SLA Compliance,73.43,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-29,SLA Compliance,72.8,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-30,SLA Compliance,72.82,90.0,Red,Critical,72.37,97.84,34.17,136.05,False
+2026-01-31,SLA Compliance,95.33,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-01,SLA Compliance,95.55,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-02,SLA Compliance,95.32,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-03,SLA Compliance,95.74,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-04,SLA Compliance,95.74,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-05,SLA Compliance,94.86,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-06,SLA Compliance,95.4,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-07,SLA Compliance,97.83,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-08,SLA Compliance,97.58,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-09,SLA Compliance,97.51,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-10,SLA Compliance,98.14,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-11,SLA Compliance,97.72,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-12,SLA Compliance,98.01,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-13,SLA Compliance,97.56,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-14,SLA Compliance,97.87,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-15,SLA Compliance,97.69,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-16,SLA Compliance,97.96,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-17,SLA Compliance,97.93,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-18,SLA Compliance,98.01,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-19,SLA Compliance,98.0,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-20,SLA Compliance,97.78,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-21,SLA Compliance,98.18,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-22,SLA Compliance,98.21,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-23,SLA Compliance,97.89,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-24,SLA Compliance,98.18,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-25,SLA Compliance,97.76,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-26,SLA Compliance,97.9,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-27,SLA Compliance,98.27,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-02-28,SLA Compliance,98.04,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
+2026-03-01,SLA Compliance,98.15,90.0,Green,Normal,72.37,97.84,34.17,136.05,False
